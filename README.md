@@ -15,4 +15,4 @@ This project builds a machine learning model to classify emails as **spam** or *
 - scikit-learn
 - pandas
 - numpy
-- matplotlib (optional for visualization)
+
